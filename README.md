@@ -7,4 +7,8 @@ Similarly, you can right-click on a file, and select **Open file location in new
 
 It is pretty simple, actually. I was annoyed by File->Open/File->Save and other similar dialogs that do not allow the user to select the path. This happens when I am saving files to a location, and the program that I'm using remembers the location, but won't let me copy the path. Problem solved!
 
+Files are included for adding and removing the registry entries.
+
+**YOU WILL BE MODIFYING YOUR WINDOWS REGISTRY AT YOUR OWN RISK! I AM NOT RESPONSIBLE FOR ANYTHING THAT YOU DO TO YOUR WINDOWS REGISTRY THAT CAUSES ISSUES WITH YOUR COMPUTER! IF YOU ARE NOT COMFORTABLE WITH MODIFYING YOUR WINDOWS REGISTRY, DO NOT MODIFY IT, AND DO NOT USE THESE FILES!**
+
 If something goes wrong and it isn't working for you, please create an Issue.
